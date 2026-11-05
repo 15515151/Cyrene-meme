@@ -1,0 +1,41 @@
+{
+    "schema_version":  1,
+    "id":  "meme-test-cyrene",
+    "name":  "示例包",
+    "version":  "1.0.0",
+    "description":  "我自己整理的表情包，用于日常聊天。",
+    "license":  "仅限自用",
+    "tags":  [
+                 "custom",
+                 "meme-pack"
+             ],
+    "categories":  {
+                       "happy":  {
+                                     "description":  "用于开心、成功、积极反馈、庆祝等场景"
+                                 },
+                       "cpu":  {
+                                   "description":  "技术讨论中表示思维卡顿、需要加载时间"
+                               },
+                       "fool":  {
+                                    "description":  "用于自嘲、缓和气氛的幽默场景"
+                                },
+                       "color":  {
+                                     "description":  "用于社交场景中的暧昧表达，建议控制使用频率"
+                                 },
+                       "c1":  {
+                                  "description":  "「杂图-0」类表情"
+                              },
+                       "c2":  {
+                                  "description":  "「杂图-1」类表情"
+                              },
+                       "c3":  {
+                                  "description":  "「杂图-2」类表情"
+                              },
+                       "love":  {
+                                    "description":  "用于喜欢、比心、暧昧或撒娇表达"
+                                },
+                       "reply":  {
+                                     "description":  "用于等待用户反馈、提问后需要确认"
+                                 }
+                   }
+}
