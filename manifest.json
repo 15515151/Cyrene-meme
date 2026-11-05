@@ -1,41 +1,52 @@
 {
-    "schema_version":  1,
-    "id":  "meme-test-cyrene",
-    "name":  "示例包",
-    "version":  "1.0.0",
-    "description":  "我自己整理的表情包，用于日常聊天。",
-    "license":  "仅限自用",
-    "tags":  [
-                 "custom",
-                 "meme-pack"
-             ],
-    "categories":  {
-                       "happy":  {
-                                     "description":  "用于开心、成功、积极反馈、庆祝等场景"
-                                 },
-                       "cpu":  {
-                                   "description":  "技术讨论中表示思维卡顿、需要加载时间"
-                               },
-                       "fool":  {
-                                    "description":  "用于自嘲、缓和气氛的幽默场景"
-                                },
-                       "color":  {
-                                     "description":  "用于社交场景中的暧昧表达，建议控制使用频率"
-                                 },
-                       "c1":  {
-                                  "description":  "「杂图-0」类表情"
-                              },
-                       "c2":  {
-                                  "description":  "「杂图-1」类表情"
-                              },
-                       "c3":  {
-                                  "description":  "「杂图-2」类表情"
-                              },
-                       "love":  {
-                                    "description":  "用于喜欢、比心、暧昧或撒娇表达"
-                                },
-                       "reply":  {
-                                     "description":  "用于等待用户反馈、提问后需要确认"
-                                 }
-                   }
+  "schema_version": 1,
+  "id": "cyrene-memes",
+  "name": "昔涟表情包",
+  "version": "2.2.0",
+  "description": "昔涟（Cyrene）主题表情包扩展版，共 181 张（含动图），覆盖开心、比心、卖萌、哭泣、疑惑、生气、困倦等日常聊天场景，适合陪伴型机器人使用。",
+  "author": "Cyrene",
+  "license": "原素材版权归米哈游及各原作者；仅限个人非商业使用",
+  "tags": [
+    "cyrene",
+    "昔涟",
+    "honkai-star-rail",
+    "anime",
+    "meme-pack"
+  ],
+  "previews": [
+    "previews/cover.jpg",
+    "previews/overview.jpg"
+  ],
+  "categories": {
+    "angry": {
+      "description": "生气、不满、小小的抗议"
+    },
+    "confused": {
+      "description": "疑惑、问号、没听懂"
+    },
+    "daily": {
+      "description": "日常通用、带字梗图"
+    },
+    "happy": {
+      "description": "开心、笑、庆祝、收到好消息时的正反馈"
+    },
+    "like": {
+      "description": "点赞、认可、称赞对方"
+    },
+    "love": {
+      "description": "比心、喜爱、撒娇、亲近表达"
+    },
+    "meow": {
+      "description": "卖萌、可爱、日常闲聊的柔和互动"
+    },
+    "reply": {
+      "description": "收到、在听、等待对方回应"
+    },
+    "sad": {
+      "description": "难过、委屈、哭、需要安慰"
+    },
+    "sleep": {
+      "description": "困了、想睡、晚安"
+    }
+  }
 }
